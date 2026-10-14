@@ -1,0 +1,16 @@
+{
+  "name": "WATCH_GRID — сообщество Watch Dogs",
+  "short_name": "WATCH_GRID",
+  "description": "Независимое русскоязычное сообщество Watch Dogs: новости, теории, гайды.",
+  "lang": "ru",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0b0d12",
+  "theme_color": "#0b0d12",
+  "icons": [
+    { "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "maskable" }
+  ]
+}
